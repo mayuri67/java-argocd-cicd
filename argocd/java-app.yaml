@@ -12,7 +12,7 @@ spec:
 
   source:
 
-    repoURL: https://github.com/YOUR_GITHUB_USERNAME/java-argocd-cicd.git
+    repoURL: https://github.com/mayuri67/java-argocd-cicd.git
 
     targetRevision: main
 
