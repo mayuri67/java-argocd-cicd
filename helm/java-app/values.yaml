@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: mayuri67/java-app
-  tag: "latest"
+  tag: "94902e7fbebf670c2ae7fbf9a5682aa5762e89dc"
   pullPolicy: IfNotPresent
 
 service:
